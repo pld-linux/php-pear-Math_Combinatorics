@@ -29,7 +29,7 @@ In PEAR status of this package is: %{_status}.
 %description -l pl.UTF-8
 Pakiet ten zwraca wszystkie kombinacje oraz permutacje bez powtórzeń z
 zadanego zbioru oraz rozmiaru podzbioru. Tablice asocjacyjne są
-zachowane.
+zachowywane.
 
 Ta klasa ma w PEAR status: %{_status}.
 
